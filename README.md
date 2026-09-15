@@ -92,7 +92,3 @@ cp auth_file.example auth_file
 - `imapcl.h` — program structures, networking and OpenSSL declarations
 - `Makefile` — GCC build configuration
 - `manual.pdf` — original project documentation
-
-## Notes
-
-The original C implementation, header, Makefile and project documentation are preserved unchanged. Portfolio cleanup only adds clearer repository documentation and removes local credential files from the current repository state.
