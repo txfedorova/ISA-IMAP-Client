@@ -1,0 +1,10 @@
+# Build artifacts
+imapcl
+*.o
+
+# Local credentials
+auth_file
+auth_file.txt
+
+# Downloaded messages
+out_dir/
